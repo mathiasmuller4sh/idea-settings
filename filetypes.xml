@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="sccs" type="CSS" />
+      <mapping ext="mongoshell" type="JavaScript" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
