@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="sccs" type="CSS" />
       <mapping ext="mongoshell" type="JavaScript" />
+      <mapping pattern="workspaces" type="PLAIN_TEXT" />
       <mapping pattern="Gymfile" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
