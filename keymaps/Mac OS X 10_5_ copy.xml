@@ -12,6 +12,12 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
     <keyboard-shortcut first-keystroke="meta c_with_cedilla" />
   </action>
+  <action id="CollapseAll" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="CollapseRegion" />
+  <action id="CollapseRegionRecursively" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="shift meta c" />
@@ -24,6 +30,9 @@
   <action id="CopyPaths" />
   <action id="DSM.OpenInEditor">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DSM.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="DomCollectionControl.Edit">
     <keyboard-shortcut first-keystroke="f4" />
@@ -54,8 +63,17 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
@@ -71,8 +89,14 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
@@ -99,7 +123,7 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta i" />
