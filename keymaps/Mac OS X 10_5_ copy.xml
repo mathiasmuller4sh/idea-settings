@@ -108,6 +108,10 @@
   </action>
   <action id="NextDiff" />
   <action id="NextOccurence" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="meta at" />
+  </action>
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
