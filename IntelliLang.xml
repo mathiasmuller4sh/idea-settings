@@ -5,6 +5,10 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("and").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.jongo.Aggregate"))]]></place>
     </injection>
     <injection language="JSON" injector-id="java">
+      <display-name>MongoCollection.find (org.jongo)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("find").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.jongo.MongoCollection"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
       <display-name>Persistor.updateMulti (algolinked.persistence)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("updateMulti").withParameters("java.lang.String", "java.util.List", "java.lang.String", "java.lang.Object...").definedInClass("algolinked.persistence.Persistor"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("updateMulti").withParameters("java.lang.String", "java.util.List", "java.lang.String", "java.lang.Object...").definedInClass("algolinked.persistence.Persistor"))]]></place>
