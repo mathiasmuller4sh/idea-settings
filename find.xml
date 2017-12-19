@@ -6,11 +6,8 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*Resour.java</mask>
-      <mask>*Resour*.java</mask>
-      <mask>c</mask>
-      <mask>cs</mask>
       <mask>css</mask>
       <mask>*.yaml</mask>
       <mask>*.yam</mask>
@@ -18,7 +15,6 @@
       <mask>*.y</mask>
       <mask>*</mask>
       <mask>*.htmll</mask>
-      <mask>*.htm</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
@@ -27,16 +23,21 @@
       <mask>*.hm</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.js*.js</mask>
+      <mask>*.js*.j</mask>
+      <mask>*.js*.</mask>
+      <mask>*.js*</mask>
+      <mask>*.</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
