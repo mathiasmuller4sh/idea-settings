@@ -31,12 +31,12 @@
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.js*</mask>
       <mask>*.java</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
