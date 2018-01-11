@@ -1,9 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js*" />
     <recentFileMasks>
       <mask>*.yam</mask>
       <mask>*.ya</mask>
@@ -18,7 +21,6 @@
       <mask>*.js*.js</mask>
       <mask>*.js*.j</mask>
       <mask>*.js*.</mask>
-      <mask>*.js*</mask>
       <mask>*.sccs</mask>
       <mask>*.scc</mask>
       <mask>*.html</mask>
@@ -35,6 +37,7 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.js*</mask>
     </recentFileMasks>
   </component>
 </application>
