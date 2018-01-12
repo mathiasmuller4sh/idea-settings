@@ -7,7 +7,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.yam</mask>
       <mask>*.ya</mask>
       <mask>*.y</mask>
       <mask>*</mask>
@@ -20,23 +19,24 @@
       <mask>*.js*.js</mask>
       <mask>*.js*.j</mask>
       <mask>*.js*.</mask>
-      <mask>*.sccs</mask>
       <mask>*.scc</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.js*</mask>
       <mask>*.java</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.sccs</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.scsss</mask>
     </recentFileMasks>
   </component>
 </application>
