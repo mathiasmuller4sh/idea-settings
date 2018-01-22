@@ -6,6 +6,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.ya</mask>
       <mask>*.y</mask>
@@ -28,7 +29,6 @@
       <mask>*.jav</mask>
       <mask>*.js*</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
@@ -37,6 +37,7 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.scsss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
