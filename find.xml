@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.y</mask>
       <mask>*</mask>
@@ -24,7 +25,6 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.js*</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
@@ -35,6 +35,7 @@
       <mask>*.scsss</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
