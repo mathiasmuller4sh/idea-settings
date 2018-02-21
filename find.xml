@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*</mask>
       <mask>*.htmll</mask>
@@ -32,9 +33,9 @@
       <mask>*.json</mask>
       <mask>*.java</mask>
       <mask>*.html</mask>
-      <mask>*.ts</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
