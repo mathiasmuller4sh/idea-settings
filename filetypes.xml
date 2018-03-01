@@ -11,6 +11,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping pattern="Model" type="UML" />
     </extensionMap>
   </component>
