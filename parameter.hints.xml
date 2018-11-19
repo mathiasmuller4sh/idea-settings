@@ -1,7 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="org.jongo.Aggregate.and(pipelineOperator,parameters)" />
+      </blacklist>
     </blacklists>
     <option id="sql.show.column.names.in.insert.values" value="true" />
   </component>

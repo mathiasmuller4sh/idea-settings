@@ -1,10 +1,6 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="JSON" injector-id="java">
-      <display-name>Aggregate.and (org.jongo)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("and").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.jongo.Aggregate"))]]></place>
-    </injection>
-    <injection language="JSON" injector-id="java">
       <display-name>MongoCollection.find (org.jongo)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("find").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.jongo.MongoCollection"))]]></place>
     </injection>
