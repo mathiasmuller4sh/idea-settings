@@ -1,10 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="sccs" type="CSS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="mongoshell" type="JavaScript" />
-      <mapping pattern="workspaces" type="PLAIN_TEXT" />
       <mapping pattern="Gymfile" type="PLAIN_TEXT" />
+      <mapping pattern="workspaces" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
@@ -13,7 +15,6 @@
       <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping pattern="Model" type="UML" />
-      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
