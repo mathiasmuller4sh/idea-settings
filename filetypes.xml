@@ -15,6 +15,7 @@
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
+      <mapping ext="pdb" type="PLAIN_TEXT" />
       <mapping pattern="Model" type="UML" />
     </extensionMap>
   </component>
