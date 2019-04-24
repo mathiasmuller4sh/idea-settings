@@ -19,7 +19,7 @@
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
