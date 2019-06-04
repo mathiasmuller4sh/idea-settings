@@ -10,5 +10,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.rest.api.requests.per.minute" value="10000" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
