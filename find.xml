@@ -10,7 +10,6 @@
     <mask>*.mxml</mask>
     <mask>*.conf</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>*.xslt</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
@@ -18,5 +17,6 @@
     <mask>*.xml</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
