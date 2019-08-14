@@ -15,8 +15,8 @@
     <mask>*.ts</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
     <mask>*.html</mask>
   </component>
 </application>
