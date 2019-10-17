@@ -16,7 +16,7 @@
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.conf</mask>
-    <mask>*.ts</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
