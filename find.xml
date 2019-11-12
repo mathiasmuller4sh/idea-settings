@@ -15,8 +15,8 @@
     <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
