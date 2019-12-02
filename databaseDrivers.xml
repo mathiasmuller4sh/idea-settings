@@ -8,15 +8,15 @@
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="derby.remote">
-      <artifact name="Apache Derby" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="derby.embedded">
       <artifact name="Apache Derby" use="true" version="10.13.1.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
+    </driver>
+    <driver id="derby.remote">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
@@ -38,7 +38,6 @@
       <library>
         <url>file://$USER_HOME$/dev/4sh/c21-mobile/sqlserver-driver-license.txt</url>
       </library>
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="sqlserver.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
@@ -50,6 +49,15 @@
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact name="MySQL Connector/J 8" use="true" version="8.0.15" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
       <artifact name="MariaDB Connector J" version="2.2.1" />
@@ -85,17 +93,16 @@
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
-    </driver>
-    <driver id="hsqldb.remote">
-      <artifact name="HSQLDB" use="true" />
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="hsqldb.local" dialect="Derby">
       <artifact name="HSQLDB" use="true" version="2.3.4" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
+    </driver>
+    <driver id="hsqldb.remote">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="h2.unified">
       <artifact name="H2" use="true" />
@@ -113,6 +120,28 @@
       <artifact name="ClickHouse" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="cassandra">
+      <artifact name="Cassandra" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="vertica">
+      <artifact name="Vertica" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hive">
+      <artifact name="Hive" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="greenplum">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+      <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="snowflake">
+      <artifact name="Snowflake" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="75f8ba1d-5286-4b76-849b-cd43131751c2" name="MySQL 8.0" dialect="MySQL" driver-class="com.mysql.jdbc.Driver" icon="AllIcons.Providers.Mysql">
       <url-template name="default" template="jdbc:mysql://{host::localhost}?[:{port::3306}][/{database}?][\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
       <url-template name="default" template="jdbc:mysql://address=\(protocol=tcp\)\(&lt;\)\(,host={host:host_ipv6:localhost},port={port::3306},user={user},password={password},{:identifier}={:identifier}&gt;\)[/{database}][\?&lt;&amp;,{:identifier}={:param}&gt;]" />
@@ -124,15 +153,15 @@
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
       <property name="autoReconnect" value="true" />
       <property name="zeroDateTimeBehavior" value="convertToNull" />
       <property name="tinyInt1isBit" value="false" />
       <property name="characterEncoding" value="utf8" />
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
-      <library>
-        <url>file://$USER_HOME$/Downloads/mysql-connector-java-8.0.9-rc/mysql-connector-java-8.0.9-rc-bin.jar</url>
-      </library>
     </driver>
   </component>
 </application>
