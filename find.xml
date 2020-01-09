@@ -13,10 +13,10 @@
     <mask>*.conf</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
