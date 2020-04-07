@@ -14,10 +14,10 @@
     <mask>*.kt</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.twig</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
