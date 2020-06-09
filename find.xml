@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -16,10 +17,10 @@
     <mask>*.twig</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
-    <mask>*.sql</mask>
     <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
