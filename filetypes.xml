@@ -11,6 +11,7 @@
       <mapping pattern="workspaces" type="PLAIN_TEXT" />
       <mapping pattern="put-your-dump-here" type="PLAIN_TEXT" />
       <mapping pattern="TP3" type="PLAIN_TEXT" />
+      <mapping pattern="5e1ccdd9d1a50e3ed61cce5f" type="PLAIN_TEXT" />
       <mapping pattern="Gymfile" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
