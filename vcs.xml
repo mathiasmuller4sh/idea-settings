@@ -6,6 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="4sh-git-account" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="mathiasmuller4sh" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
