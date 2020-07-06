@@ -19,7 +19,7 @@
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
