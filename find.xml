@@ -17,9 +17,9 @@
     <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
