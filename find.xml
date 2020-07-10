@@ -16,13 +16,13 @@
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.kt</mask>
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
     <mask>*.js</mask>
   </component>
 </application>
