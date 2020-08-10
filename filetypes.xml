@@ -2,11 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="sccs" type="CSS" />
-      <removed_mapping pattern=".dockerignore" type="Docker file" />
       <mapping ext="mongoshell" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="TP3" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern="workspaces" type="PLAIN_TEXT" />
@@ -28,7 +26,6 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="Model" type="UML" />
-      <removed_mapping pattern=".dockerignore" type="Docker file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
