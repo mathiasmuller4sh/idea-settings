@@ -14,7 +14,6 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
     <keyboard-shortcut first-keystroke="shift meta 9" />
-    <keyboard-shortcut first-keystroke="meta c_with_cedilla" />
   </action>
   <action id="CollapseAll" />
   <action id="CollapseAllRegions">
