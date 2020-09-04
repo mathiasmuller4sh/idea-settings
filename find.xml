@@ -15,11 +15,11 @@
     <mask>*.json</mask>
     <mask>*.kt</mask>
     <mask>*.properties</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
