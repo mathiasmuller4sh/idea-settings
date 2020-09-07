@@ -18,10 +18,10 @@
     <mask>*.kt</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
