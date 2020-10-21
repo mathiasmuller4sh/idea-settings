@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -19,12 +20,12 @@
     <mask>*.json</mask>
     <mask>*.properties</mask>
     <mask>*.html</mask>
-    <mask>*.sql</mask>
     <mask>*.sh</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.kt</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
