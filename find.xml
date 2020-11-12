@@ -23,9 +23,9 @@
     <mask>*.kt</mask>
     <mask>*AdvertisementDao.kt</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
