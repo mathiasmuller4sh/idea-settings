@@ -22,10 +22,10 @@
     <mask>*.scss</mask>
     <mask>*.kt</mask>
     <mask>*AdvertisementDao.kt</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
