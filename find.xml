@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -19,12 +18,12 @@
     <mask>*.sh</mask>
     <mask>*.kt</mask>
     <mask>*AdvertisementDao.kt</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
