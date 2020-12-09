@@ -20,10 +20,10 @@
     <mask>*AdvertisementDao.kt</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
-    <mask>*.scss</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
