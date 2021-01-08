@@ -13,6 +13,7 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="scala.erase.compiler.process.jdk.once" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
