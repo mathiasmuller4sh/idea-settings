@@ -60,7 +60,13 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.9.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sqlserver.ms">
       <artifact id="SQL Server" name="SQL Server" use="true" version="7.0.0" />
@@ -105,6 +111,10 @@
     </driver>
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle.19">
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="false" />
     </driver>
     <driver id="oracle">
       <artifact id="Oracle" name="Oracle" use="true" version="12.1.0.2" />
