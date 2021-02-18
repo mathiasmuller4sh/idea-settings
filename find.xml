@@ -18,10 +18,10 @@
     <mask>*.scss</mask>
     <mask>*.sql</mask>
     <mask>*.kt</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
