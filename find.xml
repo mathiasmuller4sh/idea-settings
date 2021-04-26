@@ -22,9 +22,9 @@
     <mask>*.scss</mask>
     <mask>*.sh</mask>
     <mask>*.xml</mask>
-    <mask>*.js,*.ts</mask>
     <mask>*.sql</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.js,*.ts</mask>
   </component>
 </application>
