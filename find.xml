@@ -17,7 +17,6 @@
     <mask>*.properties</mask>
     <mask>*AdvertisementDao.kt</mask>
     <mask>*.kt</mask>
-    <mask>*.scss</mask>
     <mask>*.sh</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
@@ -26,5 +25,6 @@
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
