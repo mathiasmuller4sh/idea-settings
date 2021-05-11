@@ -23,8 +23,8 @@
     <mask>*.js,*.ts</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
