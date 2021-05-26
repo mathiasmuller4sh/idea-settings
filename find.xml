@@ -14,15 +14,15 @@
     <mask>*.json</mask>
     <mask>*.properties</mask>
     <mask>*AdvertisementDao.kt</mask>
-    <mask>*.kt</mask>
     <mask>*.sh</mask>
     <mask>*.sql</mask>
     <mask>*.js,*.ts</mask>
     <mask>*.xml</mask>
     <mask>*.ts</mask>
-    <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*.kt</mask>
+    <mask>*.java</mask>
   </component>
 </application>
