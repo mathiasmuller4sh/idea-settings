@@ -21,8 +21,8 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
