@@ -7,6 +7,7 @@
       <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="mongoshell" type="JavaScript" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="5e1ccdd9d1a50e3ed61cce5f" type="PLAIN_TEXT" />
