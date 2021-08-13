@@ -1,79 +1,20 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="cassandra">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="clickhouse">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="couchbase_query">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="db2.11">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="db2">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="db2.jtopen">
-      <option name="auto-sync" value="false" />
-    </driver>
     <driver id="derby.embedded">
       <artifact id="Apache Derby" name="Apache Derby" use="true" version="10.13.1.1" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-    </driver>
-    <driver id="derby.remote">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="exasol">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="greenplum">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="send-app-info" value="false" />
-    </driver>
-    <driver id="h2.unified">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hive">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="hsqldb.local" dialect="Derby">
       <artifact id="HSQLDB" name="HSQLDB" use="true" version="2.3.4" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-    </driver>
-    <driver id="hsqldb.remote">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" channel="fixed" rolling="false" use="true" version="2.4.1" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mongo">
       <artifact id="MongoDB" name="MongoDB" use="true" version="1.9.1" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sqlserver.ms">
       <artifact id="SQL Server" name="SQL Server" use="true" version="7.0.0" />
       <option name="auto-sync" value="false" />
-      <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
       <library>
         <url>jar://$USER_HOME$/dev/4sh/c21-mobile/sqljdbc4-4.0.2206.100.jar!/</url>
       </library>
@@ -89,68 +30,31 @@
     </driver>
     <driver id="azure.ms">
       <option name="auto-sync" value="false" />
-      <option name="send-app-info" value="false" />
     </driver>
     <driver id="mysql.8">
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" channel="fixed" rolling="false" use="true" version="5.1.47" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="mysql_aurora">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle.19">
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="false" />
+      <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
     </driver>
     <driver id="oracle">
       <artifact id="Oracle" name="Oracle" use="true" version="12.1.0.2" />
       <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="false" />
       <library>
         <url>file://$USER_HOME$/dev/4sh/vue-agence/dev/vua/ojdbc6-11.2.0.3.jar</url>
       </library>
     </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.2" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-    </driver>
-    <driver id="redshift">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-    </driver>
-    <driver id="snowflake">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="sqlite.xerial">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.jtds">
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="vertica">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="75f8ba1d-5286-4b76-849b-cd43131751c2" name="MySQL 8.0" dialect="MySQL" driver-class="com.mysql.jdbc.Driver" icon="/icons/userDriver.svg">
       <url-template name="default" template="jdbc:mysql://{host::localhost}?[:{port::3306}][/{database}?][\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
@@ -160,12 +64,6 @@
         <rewrite-parameter name="database" in-url="true" />
       </connection-bounds>
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" channel="fixed" rolling="false" use="true" version="8.0.15" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
       <property name="autoReconnect" value="true" />
       <property name="zeroDateTimeBehavior" value="convertToNull" />
       <property name="tinyInt1isBit" value="false" />
