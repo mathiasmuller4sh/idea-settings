@@ -28,7 +28,6 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="TSV" />
       <mapping pattern="Model" type="UML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
