@@ -23,7 +23,7 @@
     <mask>*.ts,*.js</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
-    <mask>*.ts</mask>
     <mask>*.xml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
