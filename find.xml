@@ -20,10 +20,10 @@
     <mask>*.sql</mask>
     <mask>*.ts,*.js</mask>
     <mask>*.kt</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
