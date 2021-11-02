@@ -22,8 +22,8 @@
     <mask>*.kt</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
