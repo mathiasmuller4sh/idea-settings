@@ -23,7 +23,7 @@
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
-    <mask>*.ts,*.js</mask>
     <mask>*.html</mask>
+    <mask>*.ts,*.js</mask>
   </component>
 </application>
