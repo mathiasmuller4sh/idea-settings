@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="sccs" type="CSS" />
-      <mapping ext="csv" type="CSV file" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV file" />
+      <mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="mongoshell" type="JavaScript" />
       <mapping ext="space.kts" type="Kotlin" />
