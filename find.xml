@@ -18,12 +18,12 @@
     <mask>*.js,*.ts</mask>
     <mask>*.xml</mask>
     <mask>*.ts</mask>
-    <mask>*.ts,*.js</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.kt</mask>
     <mask>*.sql</mask>
+    <mask>*.ts,*.js</mask>
   </component>
 </application>
