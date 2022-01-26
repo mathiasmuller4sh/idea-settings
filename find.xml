@@ -22,8 +22,8 @@
     <mask>*.kt</mask>
     <mask>*.sql</mask>
     <mask>*.ts,*.js</mask>
-    <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.java</mask>
   </component>
 </application>
