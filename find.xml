@@ -16,7 +16,6 @@
     <mask>*AdvertisementDao.kt</mask>
     <mask>*.sh</mask>
     <mask>*.js,*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.kt</mask>
     <mask>*.sql</mask>
@@ -25,5 +24,6 @@
     <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>
