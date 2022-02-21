@@ -21,9 +21,9 @@
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
-    <mask>*.sql</mask>
     <mask>*.html</mask>
     <mask>*.ts,*.js</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
