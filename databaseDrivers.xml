@@ -29,6 +29,7 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="azure.ms">
+      <artifact id="SQL Server" name="SQL Server" channel="fixed" rolling="false" use="true" version="6.4.0" />
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="mysql.8">
@@ -70,6 +71,9 @@
       <property name="characterEncoding" value="utf8" />
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
+    </driver>
+    <driver id="java.sql.Driver" name="sqlserver" driver-class="com.microsoft.sqlserver.jdbc.SQLServerDriver">
+      <artifact id="SQL Server" name="SQL Server" channel="fixed" rolling="false" use="true" version="6.4.0" />
     </driver>
   </component>
 </application>
