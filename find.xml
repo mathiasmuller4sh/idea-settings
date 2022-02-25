@@ -23,7 +23,7 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.ts,*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
