@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -23,7 +23,6 @@
     <mask>*AdvertisementDao.kt</mask>
     <mask>*.sh</mask>
     <mask>*.js,*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.kt</mask>
     <mask>*.scss</mask>
     <mask>*.ts,*.js</mask>
@@ -32,5 +31,6 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
