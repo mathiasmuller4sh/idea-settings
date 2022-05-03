@@ -20,7 +20,6 @@
     <mask>*.js,*.ts</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.graphql*</mask>
     <mask>*.kt</mask>
     <mask>*.sql</mask>
@@ -28,5 +27,6 @@
     <mask>*.scss</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
