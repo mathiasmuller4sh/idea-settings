@@ -24,7 +24,7 @@
     <mask>*.ts</mask>
     <mask>*.ts,*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>
