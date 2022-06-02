@@ -21,10 +21,10 @@
     <mask>*.graphql*</mask>
     <mask>*.kt</mask>
     <mask>*.sql</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.ts,*.js</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
