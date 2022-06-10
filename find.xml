@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -23,10 +24,10 @@
     <mask>*.kt</mask>
     <mask>*.sql</mask>
     <mask>*.ts</mask>
-    <mask>*.scss</mask>
     <mask>*.ts,*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
