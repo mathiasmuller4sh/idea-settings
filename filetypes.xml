@@ -15,16 +15,16 @@
       <mapping pattern="TP3" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern="5e1ccdd9d1a50e3ed61cce5f" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
-      <mapping ext="pdb" type="PLAIN_TEXT" />
-      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="fin" type="PLAIN_TEXT" />
       <mapping ext="jarup" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="pdb" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping pattern="Model" type="UML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
